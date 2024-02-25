@@ -1,45 +1,48 @@
 ---
 # Display name
-title: Yuting Cheng 
+title: Ping-Jie Ding 
 
 # Full Name (for SEO)
-first_name: Yuting 
+first_name: Ping-Jie
 last_name: Cheng
 
 # Username (this should match the folder name)
 authors:
-  - ytcheng
+  - pjd
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD graduate
 
 # Organizations/Affiliations
 organizations:
-  - name: SYRTE / Observatoire de Paris
+  - name: Purple Mountain Observatory, CAS
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include space geodesy, Earth rotation variations, GNSS data processing and polar motion modeling.
+bio: My research interests include data analysis, stellar kinematics, Galactic structure and Galactic dynamics.
 
 interests:
-  - Space geodesy
-  - GNSS
-  - Earth Orientation Parameters
-  - Geodynamics
+  - data analysis
+  - stellar kinematics
+  - Galactic structure
+  - Galactic kinematics and dynemics
+
+work experience:
+  courses:
+  - course: LAMOST Fellow
+    institution: NAOC
 
 education:
   courses:
-    - course: PhD candidate in Astronomy
-      institution: SYRTE / Observatoire de Paris
-    - course: MS in Astrometry and Celestial Mechanics
-      institution: Nanjing University
-      year: 2020
+    - course: PhD in Astronomy
+      institution: School of Astronomy and Space Sience, NJU
+      year: 2018
     - course: BSc in Astronomy
       institution: Nanjing University
-      year: 2017
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -73,4 +76,3 @@ user_groups:
   - Alumni
 ---
 
-My main research interest includes GNSS modeling and data processing, space geodesy, Earth rotation variation estimation and modeling.
