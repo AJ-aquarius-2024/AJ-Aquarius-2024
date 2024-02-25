@@ -4,7 +4,7 @@ title: Ping-Jie Ding
 
 # Full Name (for SEO)
 first_name: Ping-Jie
-last_name: Cheng
+last_name: Ding
 
 # Username (this should match the folder name)
 authors:
@@ -48,10 +48,10 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:yu-ting.cheng@obspm.fr'
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:yu-ting.cheng@obspm.fr'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: 
@@ -60,9 +60,9 @@ social:
   #   link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: files/cv-YutingCheng.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: files/cv-YutingCheng.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
