@@ -38,7 +38,7 @@ work experience:
 education:
   courses:
     - course: PhD in Astronomy
-      institution: School of Astronomy and Space Sience, NJU
+      institution: Nanjing University
       year: 2018
     - course: BSc in Astronomy
       institution: Nanjing University
