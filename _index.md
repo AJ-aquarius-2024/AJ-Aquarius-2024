@@ -28,7 +28,7 @@ interests:
   - data analysis
   - stellar kinematics
   - Galactic structure
-  - Galactic kinematics and dynemics
+  - Galactic kinematics and dynamics
 
 work experience:
   courses:
